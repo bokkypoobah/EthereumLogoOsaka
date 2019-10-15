@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<gx:TimeStamp>2019-10-15T02:54:41.007Z</gx:TimeStamp>
+		<name>Ethereum Logo Outline</name>
+		<atom:author>
+			<atom:name>Guru Maps Pro/4.2.6</atom:name>
+		</atom:author>
+		<Style id="BookmarkStyle_72">
+			<IconStyle>
+				<Icon>
+					<href>http://shared.gurumaps.app/static/img/bookmark/BookmarkStyle_72.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<gx:TimeStamp>2019-10-14T22:41:21.659Z</gx:TimeStamp>
+			<name>N1</name>
+			<description>Nishi, Osaka, Osaka Prefecture, Japan</description>
+			<styleUrl>#BookmarkStyle_72</styleUrl>
+			<Point>
+				<coordinates>135.4972424,34.69180581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<gx:TimeStamp>2019-10-14T22:41:21.659Z</gx:TimeStamp>
+			<name>W</name>
+			<description>Nishi, Osaka, Osaka Prefecture, Japan</description>
+			<styleUrl>#BookmarkStyle_72</styleUrl>
+			<Point>
+				<coordinates>135.4871796,34.68173043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<gx:TimeStamp>2019-10-14T22:41:21.655Z</gx:TimeStamp>
+			<name>C</name>
+			<description>Chuo, Osaka, Osaka Prefecture, Japan</description>
+			<styleUrl>#BookmarkStyle_72</styleUrl>
+			<Point>
+				<coordinates>135.4981577,34.67954284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<gx:TimeStamp>2019-10-14T22:41:21.659Z</gx:TimeStamp>
+			<name>S</name>
+			<description>Nishi-Shinsaibashi, 2-16-13, Housen Building, Chuo, Osaka, Osaka Prefecture, Japan, 542-0086</description>
+			<styleUrl>#BookmarkStyle_72</styleUrl>
+			<Point>
+				<coordinates>135.4972517,34.66941339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<gx:TimeStamp>2019-10-14T22:41:21.658Z</gx:TimeStamp>
+			<name>E</name>
+			<description>10, 大阪市, Chuo, Osaka Prefecture, Japan, 541-8799</description>
+			<styleUrl>#BookmarkStyle_72</styleUrl>
+			<Point>
+				<coordinates>135.5096148,34.68218741,0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id="TrackStyle_FF3333C8">
+			<LineStyle>
+				<color>C83333FF</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<gx:TimeStamp>2019-10-14T22:41:21.659Z</gx:TimeStamp>
+			<name>Ethereum Logo Outline</name>
+			<styleUrl>#TrackStyle_FF3333C8</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>135.509615,34.682187,0.000000
+135.497242,34.691806,0.000000
+135.487180,34.681730,0.000000
+135.498158,34.679543,0.000000
+135.509615,34.682187,0.000000
+135.497252,34.669413,0.000000
+135.487180,34.681730,0.000000
+</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</kml>
+
